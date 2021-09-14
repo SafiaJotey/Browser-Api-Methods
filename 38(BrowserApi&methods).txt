@@ -1,0 +1,15 @@
+1.*****web Api vs Browser Api****
+2. alert() use to alert something
+3.confirm() use to comfirm something here ok=true cancel=false
+4.promt() return a data as a input from user.
+5.****browser location api*****
+6.location/window.location in browser console will give the location
+in object which can be accessed with location
+7.location.reload() reload the page
+8.using location.assign("link") will move to that website
+9.location.href will print current page location which also canbe set
+like;
+location.href='';
+
+10.history.back(),.forward,.length
+*****history api****
